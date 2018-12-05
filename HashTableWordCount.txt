@@ -1,0 +1,60 @@
+Number of total words in the Simple List: 28
+
+ -------------------Amount of time to get a non-sorted Entries into the SimpleList : PT0.005S
+
+ -------------------Word:	the
+Count:	1
+Word:	history
+Count:	1
+Word:	of
+Count:	1
+Word:	the
+Count:	1
+Word:	decline
+Count:	1
+Word:	and
+Count:	1
+Word:	fall
+Count:	1
+Word:	of
+Count:	1
+Word:	the
+Count:	1
+Word:	roman
+Count:	1
+Word:	empire
+Count:	1
+Word:	by
+Count:	1
+Word:	edward
+Count:	1
+Word:	gibbon
+Count:	1
+Word:	undisputed
+Count:	1
+Word:	possession
+Count:	1
+Word:	as
+Count:	1
+Word:	rightful
+Count:	1
+Word:	occupant
+Count:	1
+Word:	of
+Count:	1
+Word:	the
+Count:	1
+Word:	vast
+Count:	1
+Word:	period
+Count:	1
+Word:	which
+Count:	1
+Word:	it
+Count:	1
+Word:	comprehends
+Count:	1
+Word:	however
+Count:	1
+Word:	some
+Count:	1
