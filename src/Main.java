@@ -8,6 +8,29 @@ import javax.swing.JFileChooser;
 public class Main {
 
     public static void main(String[] args) throws FileNotFoundException {
+
+//        String word="empire";
+//        int []array1=new int[word.length()];
+//        int b = 31 ;
+//        int hash = 0;
+//        for (int i = 0; i < word.length(); i++) {
+//            hash =(int) (word.charAt(i) * Math.pow(b, word.length() - (i + 1)));
+//            array1[i]=hash;
+//
+//        }
+//        int n1=2147483647;
+//        int n2=100663789;
+//        int n3=3336592;
+//        int n4=100905;
+//        int n5=3534;
+//        int n6=101;
+//        System.out.println(Arrays.toString(array1));
+//        System.out.println(n1+n2+n3+n4+n5+n6);
+//        int n=-2043378728;
+//        System.out.println(n%20);
+//        System.out.println(Math.abs(n%20));
+
+
 /**********Hash Table Testing **************************/
         HashTableTest test1 = new HashTableTest();
         HashTable h1 = new HashTable();
@@ -27,6 +50,7 @@ public class Main {
 ////                }
 ////            }
 ////        }
+
 //        //This writes into file.
 //        try {
 //            int size = 0;
